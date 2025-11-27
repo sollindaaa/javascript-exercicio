@@ -1,0 +1,9 @@
+.texto{
+    color: rgb(30, 30, 30);
+}
+#formulario{
+    background-color: lightgray;
+    text-align: center;
+    text-size-adjust: calc(33px);
+    font: 20px Arial ;
+}
